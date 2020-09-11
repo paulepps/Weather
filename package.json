@@ -4,6 +4,14 @@
   "private": true,
   "homepage": "http://pauleps.github.io/Weather",
   "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "eslint-config-react-app": "^5.2.1",
+    "global": "^4.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3",
+    "react-sparklines": "^1.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
